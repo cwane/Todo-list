@@ -1,6 +1,6 @@
 # TODO-LIST
 
-todo-list is a simple todo app created using js and webpack
+Todo-list is a simple todo app created using js and webpack where users can update their daily,weekly or monthly goals to achieve. 
 
 ### 👋 Why this project ?
 
